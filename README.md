@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Abhishekshivhare234
-- 👀 I’m interested in Backend
-- 🌱 I’m currently learning NPL
+- 👀 I’m interested in Full Statck Development
 - 📫 How to reach me ...
 - 😄 Pronouns: He
 
